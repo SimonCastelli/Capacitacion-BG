@@ -1,2 +1,0 @@
-# CapacitacionBG-paso7
- 
