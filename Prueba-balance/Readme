@@ -1,0 +1,69 @@
+# 📊 Prueba Balance
+
+Una aplicación web interactiva para un formulario de registro con validación de datos y balance de información de usuarios.
+
+## 📋 Descripción
+
+**Prueba Balance** es un proyecto que implementa un sistema de formulario web completo con:
+- Interfaz HTML responsiva
+- Validación de datos en cliente con JavaScript
+- Procesamiento backend con PHP
+- Almacenamiento de usuarios registrados
+
+## 🛠️ Tecnologías
+
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Backend**: PHP
+- **Almacenamiento**: Archivos de texto (.txt)
+
+## 📁 Estructura del Proyecto
+
+```
+Prueba-balance/
+├── Formulario.html          # Interfaz del formulario
+├── Formulario.js            # Lógica de validación y comportamiento
+├── Formulario.php           # Procesamiento del servidor
+├── usuarios_registrados.txt # Base de datos de usuarios
+└── Readme                   # Este archivo
+```
+
+## 🎯 Características
+
+- ✅ Validación de datos en tiempo real
+- ✅ Interfaz intuitiva y amigable
+- ✅ Procesamiento seguro del lado del servidor
+- ✅ Registro persistente de usuarios
+- ✅ Manejo de errores y mensajes de confirmación
+
+## 🚀 Cómo Usar
+
+1. **Clonar el repositorio**
+   ```bash
+   git clone https://github.com/SimonCastelli/Prueba-balance.git
+   cd Prueba-balance
+   ```
+
+2. **Configurar servidor local**
+   - Necesitas un servidor con soporte PHP (XAMPP, WAMP, LAMP, etc.)
+   - Coloca los archivos en la carpeta `htdocs` o `www`
+
+3. **Abrir la aplicación**
+   - Accede a través de tu navegador: `http://localhost/Prueba-balance/Formulario.html`
+
+## 📝 Notas
+
+- El archivo `usuarios_registrados.txt` almacena los datos de usuarios registrados
+- La validación se realiza tanto en cliente (JavaScript) como en servidor (PHP)
+- Asegúrate de que el servidor tiene permisos de escritura en la carpeta
+
+## 👤 Autor
+
+**SimonCastelli**
+
+## 📄 Licencia
+
+Este proyecto es de código privado.
+
+---
+
+*Última actualización: Febrero 2026*

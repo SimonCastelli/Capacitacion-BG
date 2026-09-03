@@ -1,0 +1,6 @@
+@CapacitacionBG_HostAddress = http://localhost:5090
+
+GET {{CapacitacionBG_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

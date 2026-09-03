@@ -1,0 +1,11 @@
+[2006-02-24] DNI: 46671662 | Nombre: castelli simon | Grado: primero | Edad: 19 | Fecha de nacimiento: 2006-02-24 | Genero: M | Domicilio: sanchez de bustamante 1789
+[2024-03-10] DNI: 11111111 | Nombre: Juan Perez | Grado: primero | Edad: 19 | Fecha de nacimiento: 2005-05-15 | Genero: M | Domicilio: Av. Siempre Viva 123
+[2024-03-11] DNI: 22222222 | Nombre: Maria Gomez | Grado: segundo | Edad: 21 | Fecha de nacimiento: 2003-08-20 | Genero: F | Domicilio: Calle Falsa 456
+[2024-03-12] DNI: 33333333 | Nombre: Carlos Lopez | Grado: tercero | Edad: 23 | Fecha de nacimiento: 2001-12-10 | Genero: M | Domicilio: San Martin 800
+[2024-03-13] DNI: 44444444 | Nombre: Ana Fernandez | Grado: primero | Edad: 18 | Fecha de nacimiento: 2006-01-30 | Genero: F | Domicilio: Belgrano 200
+[2024-03-14] DNI: 55555555 | Nombre: Pedro Diaz | Grado: segundo | Edad: 20 | Fecha de nacimiento: 2004-07-07 | Genero: M | Domicilio: Rivadavia 1500
+[2024-03-15] DNI: 66666666 | Nombre: Laura Martinez | Grado: tercero | Edad: 22 | Fecha de nacimiento: 2002-03-25 | Genero: F | Domicilio: Lavalle 300
+[2024-03-16] DNI: 77777777 | Nombre: Sofia Torres | Grado: primero | Edad: 19 | Fecha de nacimiento: 2005-11-11 | Genero: F | Domicilio: Corrientes 500
+[2024-03-17] DNI: 88888888 | Nombre: Miguel Ruiz | Grado: segundo | Edad: 21 | Fecha de nacimiento: 2003-09-09 | Genero: M | Domicilio: Cordoba 1000
+[2024-03-18] DNI: 99999999 | Nombre: Lucia Ramirez | Grado: tercero | Edad: 24 | Fecha de nacimiento: 2000-02-14 | Genero: F | Domicilio: Santa Fe 2500
+[2024-03-19] DNI: 12121212 | Nombre: Diego Alvarez | Grado: primero | Edad: 18 | Fecha de nacimiento: 2006-06-06 | Genero: M | Domicilio: Mitre 100
